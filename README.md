@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
