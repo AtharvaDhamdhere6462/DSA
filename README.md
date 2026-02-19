@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0058-length-of-last-word) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Segment Tree
 |  |
 | ------- |
