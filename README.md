@@ -16,6 +16,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0904-fruit-into-baskets) |
@@ -34,6 +35,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -85,4 +88,9 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
