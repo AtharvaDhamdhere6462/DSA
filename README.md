@@ -13,6 +13,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0283-move-zeroes) |
@@ -72,6 +73,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -99,10 +101,16 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
