@@ -15,6 +15,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
