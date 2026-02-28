@@ -33,6 +33,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1920-build-array-from-permutation](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1929-concatenation-of-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1929-concatenation-of-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
