@@ -34,6 +34,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1920-build-array-from-permutation) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
 | [2485-find-the-pivot-integer](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2485-find-the-pivot-integer) |
 ## Sliding Window
 |  |
@@ -96,6 +98,7 @@
 | [0904-fruit-into-baskets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
