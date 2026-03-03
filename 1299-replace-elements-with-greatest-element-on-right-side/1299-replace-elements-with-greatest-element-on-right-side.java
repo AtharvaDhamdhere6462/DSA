@@ -21,29 +21,47 @@
 //     }
 // }
 
+// class Solution {
+//     public int[] replaceElements(int[] arr) {
+//         int n = arr.length;
+//         int[] temp = new int[n];
+
+//         for(int i = 0; i < n; i++) {
+
+//             if(i == n - 1) {
+//                 temp[i] = -1;
+//             } 
+//             else {
+//                 int max = arr[i + 1];   // start from first right element
+
+//                 for(int j = i + 1; j < n; j++) {
+//                     if(arr[j] > max) {
+//                         max = arr[j];
+//                     }
+//                 }
+
+//                 temp[i] = max;  // assign after loop
+//             }
+//         }
+
+//         return temp;
+//     }
+// }
+
+
 class Solution {
     public int[] replaceElements(int[] arr) {
+        
         int n = arr.length;
-        int[] temp = new int[n];
-
-        for(int i = 0; i < n; i++) {
-
-            if(i == n - 1) {
-                temp[i] = -1;
-            } 
-            else {
-                int max = arr[i + 1];   // start from first right element
-
-                for(int j = i + 1; j < n; j++) {
-                    if(arr[j] > max) {
-                        max = arr[j];
-                    }
-                }
-
-                temp[i] = max;  // assign after loop
-            }
+        int maxSoFar = -1;
+        
+        for(int i = n - 1; i >= 0; i--){
+            
+            int current = arr[i];
+            arr[i] = maxSoFar;
+            maxSoFar = Math.max(maxSoFar, current);
         }
-
-        return temp;
+        
+        return arr;
     }
 }
