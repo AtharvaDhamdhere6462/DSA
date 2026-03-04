@@ -28,6 +28,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0860-lemonade-change) |
 ## Bit Manipulation
 |  |
 | ------- |
