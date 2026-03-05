@@ -40,6 +40,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
