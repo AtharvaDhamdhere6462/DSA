@@ -1,14 +1,14 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        if (nums.length == 0) return 0;
+        if(nums.length==0)return 0;
 
-        int i = 0; // slow pointer
-        for (int j = 1; j < nums.length; j++) {
-            if (nums[j] != nums[i]) {  // found a new unique element
+        int i=0;
+        for(int j=1;j<nums.length;j++){
+            if(nums[j]!=nums[i]){
                 i++;
-                nums[i] = nums[j];  // place it next to the last unique element
+                nums[i]=nums[j];
             }
         }
-        return i + 1; // length of unique elements
+        return i+1;
     }
 }
