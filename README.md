@@ -46,6 +46,7 @@
 | [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
