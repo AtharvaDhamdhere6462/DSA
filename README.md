@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0027-remove-element) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -130,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,6 +143,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
