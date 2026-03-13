@@ -11,6 +11,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
