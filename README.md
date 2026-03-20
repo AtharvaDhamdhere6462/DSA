@@ -53,6 +53,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -112,6 +113,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
