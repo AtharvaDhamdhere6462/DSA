@@ -73,6 +73,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3208-alternating-groups-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3208-alternating-groups-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3208-alternating-groups-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3208-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
