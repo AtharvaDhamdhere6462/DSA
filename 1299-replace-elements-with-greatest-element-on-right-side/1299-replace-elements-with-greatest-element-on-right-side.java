@@ -49,19 +49,39 @@
 // }
 
 
+// class Solution {
+//     public int[] replaceElements(int[] arr) {
+        
+//         int n = arr.length;
+//         int maxSoFar = -1;
+        
+//         for(int i = n - 1; i >= 0; i--){
+            
+//             int current = arr[i];
+//             arr[i] = maxSoFar;
+//             maxSoFar = Math.max(maxSoFar, current);
+//         }
+        
+//         return arr;
+//     }
+// }
+
+
+
 class Solution {
     public int[] replaceElements(int[] arr) {
-        
-        int n = arr.length;
-        int maxSoFar = -1;
-        
-        for(int i = n - 1; i >= 0; i--){
-            
-            int current = arr[i];
-            arr[i] = maxSoFar;
-            maxSoFar = Math.max(maxSoFar, current);
+        Map<Integer,Integer> map = new HashMap<>();
+
+        int maxright=-1;
+
+        for(int i=arr.length-1;i>=0;i--){
+            map.put(i,maxright);
+            maxright=Math.max(maxright,arr[i]);
         }
-        
+        for(int i=0;i<arr.length;i++){
+            arr[i]=map.get(i);
+        }
+
         return arr;
     }
 }
