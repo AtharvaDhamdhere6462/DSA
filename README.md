@@ -77,6 +77,7 @@
 | [3208-alternating-groups-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3208-alternating-groups-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3668-restore-finishing-order](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3668-restore-finishing-order) |
 ## Segment Tree
 |  |
 | ------- |
