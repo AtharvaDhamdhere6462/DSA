@@ -1,76 +1,21 @@
-// class Solution {
-//     public int longestOnes(int[] nums, int k) {
-//         int n=nums.length;
-//         int maxlen=0;
-
-//         for(int i=0;i<n;i++){
-//             int zeros=0;
-//             for(int j=i;j<n;j++){
-//                 if(nums[j]==0){
-//                     zeros++;
-//                 }
-//                 if(zeros<=k){
-//                     int len=j-i+1;
-//                     maxlen=Math.max(maxlen,len);
-//                 }else{
-//                     break;
-//                 }
-//             }
-//         }
-//         return maxlen;
-//     }
-// }
-
-// class Solution {
-//     public int longestOnes(int[] nums, int k) {
-//         int n=nums.length;
-//         int left=0;
-//         int right=0;
-//         int maxlen=0;
-//         int zero =0;
-
-//         while(right<n){
-//             if(nums[right]==0){
-//                 zero++;
-//             }
-//             while(zero>k){
-//                 if(nums[left]==0){
-//                     zero--;
-                    
-//                 }
-//                 left++;
-//             }
-//             int len =right-left+1;
-//             maxlen =Math.max(maxlen,len);
-                
-//             right++;
-//         }
-//         return maxlen;
-//     }
-// }
-
 class Solution {
     public int longestOnes(int[] nums, int k) {
+        int maxlen=0;
         int n=nums.length;
         int left=0;
-        int zero=0;
-        int maxlen=0;
-        int right=0;
-
-        while(right<n){
-            if(nums[right]==0){
-                zero++;
+        int count=0;
+        for(int r=0;r<n;r++){
+            if(nums[r]==0){
+                count++;
             }
-            while(zero>k){
+            while(count>k){
                 if(nums[left]==0){
-                    zero--;
+                    count--;
+
                 }left++;
             }
-            maxlen=Math.max(maxlen,right-left+1);
-
-            right++;
+            maxlen=Math.max(maxlen,r-left+1);
         }
-
-return maxlen;
+        return maxlen;
     }
 }
