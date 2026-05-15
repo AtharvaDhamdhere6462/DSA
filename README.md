@@ -72,6 +72,7 @@
 | [1539-kth-missing-positive-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1929-concatenation-of-array) |
@@ -263,6 +264,7 @@
 | [0053-maximum-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
 | ------- |
