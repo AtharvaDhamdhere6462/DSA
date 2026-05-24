@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -26,6 +27,7 @@
 | [0015-3sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0152-maximum-product-subarray) |
@@ -161,6 +163,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -217,6 +220,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
