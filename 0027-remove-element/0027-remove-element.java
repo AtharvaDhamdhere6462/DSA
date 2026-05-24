@@ -25,19 +25,42 @@
 //     }
 // }
 
+// class Solution {
+//     public int removeElement(int[] nums, int val) {
+        
+//         int index = 0;   // position to insert valid elements
+        
+//         for(int i = 0; i < nums.length; i++){
+            
+//             if(nums[i] != val){
+//                 nums[index] = nums[i];
+//                 index++;
+//             }
+//         }
+        
+//         return index;
+//     }
+// }
+
 class Solution {
     public int removeElement(int[] nums, int val) {
-        
-        int index = 0;   // position to insert valid elements
-        
-        for(int i = 0; i < nums.length; i++){
-            
-            if(nums[i] != val){
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        int index = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+
+            if (nums[i] != val) {
+
                 nums[index] = nums[i];
+
+                map.put(index, nums[i]);
+
                 index++;
             }
         }
-        
+
         return index;
     }
 }
