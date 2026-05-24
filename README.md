@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0027-remove-element) |
@@ -276,4 +278,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
