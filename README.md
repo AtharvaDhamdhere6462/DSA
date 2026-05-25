@@ -54,6 +54,7 @@
 | [0875-koko-eating-bananas](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -228,6 +229,7 @@
 | [0561-array-partition](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -236,6 +238,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
@@ -245,6 +248,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -267,6 +271,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -286,4 +291,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
