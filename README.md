@@ -41,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0485-max-consecutive-ones) |
@@ -169,6 +170,7 @@
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -227,6 +229,7 @@
 | [0075-sort-colors](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0561-array-partition) |
@@ -240,6 +243,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -251,6 +255,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
@@ -273,6 +278,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -301,9 +307,14 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
