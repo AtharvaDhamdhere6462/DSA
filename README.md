@@ -31,6 +31,7 @@
 | [0053-maximum-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -317,4 +319,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
