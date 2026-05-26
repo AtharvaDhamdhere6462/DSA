@@ -1,32 +1,65 @@
-class Solution {
+// class Solution {
 
+//     public int longestConsecutive(int[] nums) {
+
+//         if (nums.length == 0) {
+//             return 0;
+//         }
+
+//         TreeMap<Integer, Integer> map = new TreeMap<>();
+
+//         for (int num : nums) {
+//             map.put(num, 1);
+//         }
+
+//         int prev = Integer.MIN_VALUE;
+//         int current = 0;
+//         int max = 0;
+
+//         for (int key : map.keySet()) {
+
+//             if (prev + 1 == key) {
+//                 current++;
+//             } else {
+//                 current = 1;
+//             }
+
+//             max = Math.max(max, current);
+
+//             prev = key;
+//         }
+
+//         return max;
+//     }
+// }
+
+class Solution {
     public int longestConsecutive(int[] nums) {
 
-        if (nums.length == 0) {
-            return 0;
-        }
+        int n = nums.length;
 
-        TreeMap<Integer, Integer> map = new TreeMap<>();
+        if (n == 0) return 0;
 
-        for (int num : nums) {
-            map.put(num, 1);
-        }
+        Arrays.sort(nums);
 
-        int prev = Integer.MIN_VALUE;
-        int current = 0;
-        int max = 0;
+        int count = 1;
+        int max = 1;
 
-        for (int key : map.keySet()) {
+        for (int i = 1; i < n; i++) {
 
-            if (prev + 1 == key) {
-                current++;
-            } else {
-                current = 1;
+            // skip duplicates
+            if (nums[i] == nums[i - 1]) {
+                continue;
             }
 
-            max = Math.max(max, current);
+            // consecutive
+            if (nums[i] == nums[i - 1] + 1) {
+                count++;
+            } else {
+                count = 1;
+            }
 
-            prev = key;
+            max = Math.max(max, count);
         }
 
         return max;
