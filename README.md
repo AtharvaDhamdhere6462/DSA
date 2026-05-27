@@ -48,6 +48,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -178,6 +179,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -329,4 +331,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
