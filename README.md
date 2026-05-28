@@ -54,6 +54,7 @@
 | [0605-can-place-flowers](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0832-flipping-an-image) |
@@ -107,6 +108,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1004-max-consecutive-ones-iii) |
