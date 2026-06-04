@@ -107,6 +107,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -343,4 +344,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0496-next-greater-element-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
