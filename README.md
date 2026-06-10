@@ -98,6 +98,7 @@
 | [1929-concatenation-of-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3208-alternating-groups-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3208-alternating-groups-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -129,6 +130,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Math
 |  |
@@ -265,6 +267,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
