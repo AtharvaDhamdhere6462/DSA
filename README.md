@@ -100,6 +100,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3208-alternating-groups-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3208-alternating-groups-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -133,6 +134,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Math
 |  |
@@ -281,6 +283,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
