@@ -50,6 +50,7 @@
 | [0283-move-zeroes](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0496-next-greater-element-i) |
@@ -122,6 +123,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0704-binary-search) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0724-find-pivot-index) |
@@ -301,6 +304,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0605-can-place-flowers) |
@@ -329,6 +333,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
