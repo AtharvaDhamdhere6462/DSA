@@ -106,6 +106,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3208-alternating-groups-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3208-alternating-groups-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -154,6 +155,7 @@
 | [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2485-find-the-pivot-integer](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2485-find-the-pivot-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sliding Window
 |  |
