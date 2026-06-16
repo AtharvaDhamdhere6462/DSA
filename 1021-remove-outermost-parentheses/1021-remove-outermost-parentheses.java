@@ -27,27 +27,56 @@
 //     }
 // }
 
+// class Solution {
+//     public String removeOuterParentheses(String s) {
+
+//         StringBuilder ans = new StringBuilder();
+//         int count = 0;
+
+//         for (int i = 0; i < s.length(); i++) {
+
+//             if (s.charAt(i) == '(') {
+//                 if (count > 0) {
+//                     ans.append('(');
+//                 }
+//                 count++;
+//             } else {
+//                 count--;
+//                 if (count > 0) {
+//                     ans.append(')');
+//                 }
+//             }
+//         }
+
+//         return ans.toString();
+//     }
+// }
+
 class Solution {
     public String removeOuterParentheses(String s) {
 
-        StringBuilder ans = new StringBuilder();
         int count = 0;
+        StringBuilder result = new StringBuilder();
 
-        for (int i = 0; i < s.length(); i++) {
+        for(int i = 0; i < s.length(); i++) {
 
-            if (s.charAt(i) == '(') {
-                if (count > 0) {
-                    ans.append('(');
+            if(s.charAt(i) == '(') {
+
+                if(count > 0) {
+                    result.append('(');
                 }
                 count++;
-            } else {
+            }
+            else {
+
                 count--;
-                if (count > 0) {
-                    ans.append(')');
+
+                if(count > 0) {
+                    result.append(')');
                 }
             }
         }
 
-        return ans.toString();
+        return result.toString();
     }
 }
