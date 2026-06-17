@@ -108,6 +108,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3208-alternating-groups-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3208-alternating-groups-ii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3668-restore-finishing-order) |
@@ -156,6 +157,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2485-find-the-pivot-integer](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sliding Window
 |  |
