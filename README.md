@@ -155,6 +155,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2469-convert-the-temperature](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
