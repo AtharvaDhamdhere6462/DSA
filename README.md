@@ -103,6 +103,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -240,6 +241,7 @@
 | [1920-build-array-from-permutation](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Ordered Set
@@ -268,6 +270,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1768-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
