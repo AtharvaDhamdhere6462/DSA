@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -219,6 +220,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0496-next-greater-element-i) |
@@ -303,6 +305,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -359,6 +362,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
