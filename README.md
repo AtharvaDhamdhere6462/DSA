@@ -24,6 +24,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2942-find-words-containing-character](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2942-find-words-containing-character) |
+| [3838-weighted-word-mapping](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -251,6 +253,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3701-compute-alternating-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Ordered Set
 |  |
