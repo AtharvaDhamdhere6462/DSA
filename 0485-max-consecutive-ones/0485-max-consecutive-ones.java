@@ -34,25 +34,41 @@
 // }
 
 
-class Solution {
-    public int findMaxConsecutiveOnes(int[] nums) {
-        int n =nums.length;
-        int max= 0;
-        int left=0;
-        int count =0;
-        for(int r=0;r<n;r++){
-            if(nums[r]==1){
-                count++;
-            }else if(nums[r]==0){
-                left= r+1;
-                count =0;
+// class Solution {
+//     public int findMaxConsecutiveOnes(int[] nums) {
+//         int n =nums.length;
+//         int max= 0;
+//         int left=0;
+//         int count =0;
+//         for(int r=0;r<n;r++){
+//             if(nums[r]==1){
+//                 count++;
+//             }else if(nums[r]==0){
+//                 left= r+1;
+//                 count =0;
 
-            }
-            max= Math.max(max,count);
+//             }
+//             max= Math.max(max,count);
         
 
+//         }
+//         return max;
+
+//     }
+// }
+
+class Solution {
+    public int findMaxConsecutiveOnes(int[] nums) {
+        int max=0;
+        int n=nums.length;
+
+        int low=0;
+        for(int r=0;r<n;r++){
+            if(nums[r]== 0){
+                low=r+1;
+            }
+            max=Math.max(r-low+1,max);
         }
         return max;
-
     }
 }
