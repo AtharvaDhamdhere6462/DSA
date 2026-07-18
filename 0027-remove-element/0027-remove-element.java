@@ -55,7 +55,7 @@ class Solution {
 
                 nums[index] = nums[i];
 
-                map.put(index, nums[i]);
+                // map.put(index, nums[i]);
 
                 index++;
             }
