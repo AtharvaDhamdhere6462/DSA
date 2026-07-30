@@ -12,6 +12,7 @@
 | [0392-is-subsequence](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0520-detect-capital](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
