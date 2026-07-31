@@ -14,6 +14,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1002-find-common-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -83,6 +84,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1002-find-common-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1052-grumpy-bookstore-owner) |
@@ -236,6 +238,7 @@
 | [0904-fruit-into-baskets](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1002-find-common-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1002-find-common-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
