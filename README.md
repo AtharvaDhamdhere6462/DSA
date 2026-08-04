@@ -426,4 +426,5 @@
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1114-print-in-order) |
+| [1195-fizz-buzz-multithreaded](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
