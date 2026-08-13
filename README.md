@@ -47,6 +47,7 @@
 | [0118-pascals-triangle](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -352,6 +353,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
