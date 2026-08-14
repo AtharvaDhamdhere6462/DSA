@@ -430,4 +430,12 @@
 | [1114-print-in-order](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1114-print-in-order) |
 | [1195-fizz-buzz-multithreaded](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1226-the-dining-philosophers) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
