@@ -131,6 +131,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -255,6 +256,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3668-restore-finishing-order](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3731-find-missing-elements) |
 ## Segment Tree
 |  |
 | ------- |
@@ -323,6 +325,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3731-find-missing-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
