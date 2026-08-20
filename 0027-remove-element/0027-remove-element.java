@@ -42,25 +42,39 @@
 //     }
 // }
 
+// class Solution {
+//     public int removeElement(int[] nums, int val) {
+
+//         HashMap<Integer, Integer> map = new HashMap<>();
+
+//         int index = 0;
+
+//         for (int i = 0; i < nums.length; i++) {
+
+//             if (nums[i] != val) {
+
+//                 nums[index] = nums[i];
+
+//                 // map.put(index, nums[i]);
+
+//                 index++;
+//             }
+//         }
+
+//         return index;
+//     }
+// }
+
 class Solution {
     public int removeElement(int[] nums, int val) {
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        int index = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-
-            if (nums[i] != val) {
-
-                nums[index] = nums[i];
-
-                // map.put(index, nums[i]);
-
-                index++;
+        int ind=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i] != val){
+                // map.put(nums[i])
+                nums[ind]=nums[i];
+                ind++;
             }
         }
-
-        return index;
+        return ind;
     }
 }
