@@ -123,6 +123,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2942-find-words-containing-character](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -256,6 +257,7 @@
 | [1512-number-of-good-pairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2540-minimum-common-value](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -457,5 +459,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
