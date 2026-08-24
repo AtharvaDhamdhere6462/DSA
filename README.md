@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0392-is-subsequence) |
@@ -298,6 +299,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0283-move-zeroes) |
