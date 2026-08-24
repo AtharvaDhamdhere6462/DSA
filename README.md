@@ -59,6 +59,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -151,6 +152,7 @@
 | [0162-find-peak-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0410-split-array-largest-sum) |
@@ -175,6 +177,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -239,6 +242,7 @@
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -318,6 +322,7 @@
 | [0075-sort-colors](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0455-assign-cookies) |
@@ -372,6 +377,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
