@@ -130,6 +130,7 @@
 | [2942-find-words-containing-character](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3208-alternating-groups-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3208-alternating-groups-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -285,6 +286,7 @@
 | [1929-concatenation-of-array](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3701-compute-alternating-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3838-weighted-word-mapping) |
