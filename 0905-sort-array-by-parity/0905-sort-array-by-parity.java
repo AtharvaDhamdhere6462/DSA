@@ -1,26 +1,22 @@
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
-        int n=nums.length;
-        int left=0;
-        int right=n-1;
-        while(left<right){
-            while( left<right &&nums[left] % 2 ==0 ){
-                
-                left++;
-                
+        int n = nums.length;
+        int low=0;
+        int high=n-1;
+        while(low<high){
+            if(nums[low] % 2 == 0){
+                low++;
             }
-            while( left<right &&nums[right] % 2 !=0 ){
-                right--;
+            if(nums[high] % 2 != 0){
+                high--;
             }
-            swap(nums,left,right);
-            
 
+            else{
+                int temp=nums[low];
+                nums[low]=nums[high];
+                nums[high]=temp;
+            }
         }
         return nums;
-    }
-    private void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
     }
 }
