@@ -65,16 +65,32 @@
 //     }
 // }
 
+// class Solution {
+//     public int removeElement(int[] nums, int val) {
+//         int ind=0;
+//         for(int i=0;i<nums.length;i++){
+//             if(nums[i] != val){
+//                 // map.put(nums[i])
+//                 nums[ind]=nums[i];
+//                 ind++;
+//             }
+//         }
+//         return ind;
+//     }
+// }
+
+
 class Solution {
     public int removeElement(int[] nums, int val) {
-        int ind=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i] != val){
-                // map.put(nums[i])
-                nums[ind]=nums[i];
-                ind++;
+        int n = nums.length;
+        int idx=0;
+        for(int i=0;i<n;i++){
+            if(nums[i]!=val){
+                nums[idx]=nums[i];
+                idx++;
             }
         }
-        return ind;
+
+        return idx;
     }
 }
