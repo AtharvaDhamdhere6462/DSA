@@ -196,6 +196,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3870-count-commas-in-range](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
