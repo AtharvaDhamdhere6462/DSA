@@ -454,11 +454,13 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0901-online-stock-span) |
 ## Interactive
 |  |
 | ------- |
@@ -482,4 +484,12 @@
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
