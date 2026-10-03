@@ -21,6 +21,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1768-merge-strings-alternately) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -477,6 +478,7 @@
 | [0496-next-greater-element-i](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -526,4 +528,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
