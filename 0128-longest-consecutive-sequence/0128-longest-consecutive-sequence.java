@@ -66,30 +66,65 @@
 //     }
 // }
 
+// class Solution {
+//     public int longestConsecutive(int[] nums) {
+//         if (nums.length == 0)
+//             return 0;
+
+//         Set<Integer> set = new HashSet<>();
+
+//         for (int num : nums) {
+//             set.add(num);
+//         }
+//         int max = 0;
+
+//         for (int num : set) {
+//             if (!set.contains(num - 1)) {
+//                 int currnum = num;
+//                 int currstrek = 1;
+
+//                 while (set.contains(currnum + 1)) {
+//                     currnum++;
+//                     currstrek++;
+//                 }
+//                 max = Math.max(max, currstrek);
+//             }
+//         }
+//         return max;
+//     }
+// }
+
+
+
+
+import java.util.Arrays;
+
 class Solution {
     public int longestConsecutive(int[] nums) {
-        if (nums.length == 0)
-            return 0;
+        int n = nums.length;
+        if (n == 0) return 0;
 
-        Set<Integer> set = new HashSet<>();
+        Arrays.sort(nums);
 
-        for (int num : nums) {
-            set.add(num);
-        }
-        int max = 0;
+        int count = 1;
+        int maxc = 1;
 
-        for (int num : set) {
-            if (!set.contains(num - 1)) {
-                int currnum = num;
-                int currstrek = 1;
-
-                while (set.contains(currnum + 1)) {
-                    currnum++;
-                    currstrek++;
-                }
-                max = Math.max(max, currstrek);
+        for (int i = 1; i < n; i++) {
+            // Ignore duplicates
+            if (nums[i] == nums[i - 1]) {
+                continue;
             }
+
+            // Check if current number continues the streak
+            if (nums[i] == nums[i - 1] + 1) {
+                count++;
+            } else {
+                count = 1; // reset streak
+            }
+
+            maxc = Math.max(maxc, count);
         }
-        return max;
+
+        return maxc;
     }
-}
+}    
