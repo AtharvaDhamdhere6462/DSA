@@ -535,4 +535,8 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AtharvaDhamdhere6462/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
